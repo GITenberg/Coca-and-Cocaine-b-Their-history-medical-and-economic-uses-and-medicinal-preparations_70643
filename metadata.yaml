@@ -1,5 +1,8 @@
 _repo: Coca-and-Cocaine-b-Their-history-medical-and-economic-uses-and-medicinal-preparations_70643
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70643-h/images/cover.jpg
 creator:
   author:
     agent_name: Martindale, William
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '55761'
     url: http://www.gutenberg.org/2009/agents/55761
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70643#Coca-and-Cocaine-b-Their-history-medical-and-economic-uses-and-medicinal-preparations
 gutenberg_issued: '2023-04-26'
 identifiers:
   gutenberg: '70643'
